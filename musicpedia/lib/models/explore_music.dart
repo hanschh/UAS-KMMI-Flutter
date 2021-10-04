@@ -17,14 +17,9 @@ class ExploreMusic {
   String authorName;
   String role;
   String profileImage;
-  int durationInMinutes;
-  String dietType;
-  int calories;
   List<String> tags;
   String description;
   String source;
-  List<Ingredients> ingredients;
-  List<Instruction> instructions;
 
   ExploreMusic(
       {this.cardType,
@@ -50,23 +45,8 @@ class ExploreMusic {
     authorName = json['authorName'];
     role = json['role'];
     profileImage = json['profileImage'];
-    durationInMinutes = json['durationInMinutes'];
-    dietType = json['dietType'];
-    calories = json['calories'];
     tags = json['tags'].cast<String>();
     description = json['description'];
     source = json['source'];
-    if (json['ingredients'] != null) {
-      ingredients = <Ingredients>[];
-      json['ingredients'].forEach((v) {
-        ingredients.add(Ingredients.fromJson(v));
-      });
-    }
-    if (json['instructions'] != null) {
-      instructions = <Instruction>[];
-      json['instructions'].forEach((v) {
-        instructions.add(Instruction.fromJson(v));
-      });
-    }
   }
 }
