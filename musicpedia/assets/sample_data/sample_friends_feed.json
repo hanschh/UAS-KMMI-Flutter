@@ -1,0 +1,64 @@
+{
+    "feed": [
+        {
+            "profileImageUrl": "assets/profile_pics/person_3.jpeg",
+            "comment": "Made this amazing song this morning",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "25"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_4.jpeg",
+            "comment": "Made an Electronic Dance Music, Darkside.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "40"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_5.png",
+            "comment": "Made a cool Jazz songs today!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "10"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_6.jpeg",
+            "comment": "Produced a Pop song yesterday.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "30"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_1.jpg",
+            "comment": "I'm going to give the best for my newest songs!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "40"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_2.jpeg",
+            "comment": "Should I made some cool Song?🤔",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_7.jpeg",
+            "comment": "Kicking off the morning with this fender guitar. Time to compose a new songs!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "50"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_8.png",
+            "comment": "Not sure where I should start to compose today.",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "60"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_hans.jpeg",
+            "comment": "It's time to shake the world with this Improvitation!",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "70"
+        },
+        {
+            "profileImageUrl": "assets/profile_pics/person_9.jpeg",
+            "comment": "Maybe I should try a new music genre?🤭",
+            "foodPictureUrl": "card_carrot.png",
+            "timestamp": "90"
+        }
+    ]
+}

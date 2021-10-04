@@ -1,0 +1,86 @@
+
+{
+    "musics": [
+        {
+            "dishImage": "assets/album_pics/album_1.png",
+            "title": "Permission to Dance - BTS",
+            "duration": "4:59",
+            "links": "https://youtu.be/CuklIb9d3fI",
+            "source": "https://upload.wikimedia.org/wikipedia/en/0/04/BTS_-_Permission_to_Dance.png",
+            "information": [
+                "Album: Permission to Dance"
+            ]
+        },
+        {
+            "dishImage": "assets/album_pics/album_2.jpg",
+            "title": "Kiss Me More - Doja Cat feat. SZA",
+            "duration": "5:15",
+            "links": "https://youtu.be/0EVVKs6DQLo",
+            "source": "https://i1.sndcdn.com/artworks-8PUq5yLnUkhzxad3-ZKs4oQ-t500x500.jpg",
+            "information": [
+                "Album: Kiss Me More"
+            ]
+        },
+        {
+            "dishImage": "assets/album_pics/album_3.jpg",
+            "title": "Leave The Door Open - Bruno Mars",
+            "duration": "4:08",
+            "links": "https://youtu.be/adLGHcj_fmA",
+            "source": "https://i1.sndcdn.com/artworks-66IEziyOwKbmhAx4-77Xpfg-t500x500.jpg",
+            "information": [
+                "Album: Leave The Door Open"
+            ]
+        },
+        {
+            "dishImage": "assets/album_pics/album_4.jpg",
+            "title": "Levitating - Dua Lipa",
+            "duration": "3:49",
+            "links":"https://youtu.be/Nj2U6rhnucI",
+            "source": "https://i1.sndcdn.com/artworks-IeJj19bzbXIrLiE3-Foa40Q-t500x500.jpg",
+            "information": [
+                "Album: Levitating"
+            ]
+        },
+        {
+            "dishImage": "assets/album_pics/album_5.jpg",
+            "title": "STAY - Justin Bieber, The Kid LAROI",
+            "duration": "2:37",
+            "links": "https://youtu.be/kTJczUoc26U",
+            "source": "https://i1.sndcdn.com/artworks-rReznawIzS6AxC7Q-C81zrQ-t500x500.jpg",
+            "information": [
+                "Album: STAY"
+            ]
+            
+        },
+        {
+            "dishImage": "assets/album_pics/album_6.jpg",
+            "title": "Good 4 U - Olivia Rodrigo",
+            "duration": "3:18",
+            "links": "https://youtu.be/gNi_6U5Pm_o",
+            "source": "https://www.mainmain.id/uploads/post/2021/05/11/Olivia_Rodrigo_Good_4_U_Lagu_Baru_Tampil_di_SNL_Kode-Kode_Album_Sour_Terbaru.jpg",
+            "information": [
+                "Album: Good 4 U"
+            ]
+        },
+        {
+            "dishImage": "assets/album_pics/album_7.jpg",
+            "title": "Summer of Love - Shawn Mendes, Tainy",
+            "duration": "3:00",
+            "links": "https://youtu.be/v9lZ2MEx8oU",
+            "source": "https://stat.ameba.jp/user_images/20210821/02/haru0810summer/26/6a/j/o0837083714989625268.jpg",
+            "information": [
+                "Album: Summer of Love"
+            ]
+        },
+        {
+            "dishImage": "assets/album_pics/album_8.jpg",
+            "title": "Don't Go - Skrillex, Justin Bieber & Don Toliver",
+            "duration": "2:47",
+            "links": "https://youtu.be/cds_rfHsJ3Y",
+            "source": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiphopleakers.com%2Fskrillex-ft-justin-bieber-don-toliver-dont-go%2F&psig=AOvVaw3URg3XSrJ0-SMTSDZ5Cfnj&ust=1632642857775000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCG_uDSmfMCFQAAAAAdAAAAABAK",
+            "information": [
+                "Album: Don't Go"
+            ]
+        }
+    ]
+}

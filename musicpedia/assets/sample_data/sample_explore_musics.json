@@ -1,0 +1,57 @@
+{
+    "musics": [
+        {
+            "cardType": "card1",
+            "title": "The Art of Musical",
+            "subtitle": "Composer's Choice",
+            "backgroundImage": "assets/magazine_pics/card_1.jpg",
+            "backgroundImageSource": "https://cdn-2.tstatic.net/lampung/foto/bank/images/ariana-grande_20170523_081736.jpg",
+            "message": "Learn to make the tunable work.",
+            "authorName": "Hans Christian Herwanto",
+            "role": "Founder of Hans Christian Herwanto",
+            "authorImage": "assets/profile_pics/person_hans.jpeg",
+            "tags": ["Trend", "Music", "Song", "Chill"],
+            "description": "No Music No Life",
+            "source": "World's Billboard"
+        },
+        {
+            "cardType": "card2",
+            "title": "Music",
+            "subtitle": "Rythm",
+            "backgroundImage": "assets/magazine_pics/card_2.jpg",
+            "backgroundImageSource": "https://cdn.idntimes.com/content-images/community/2018/03/1-1467711198-ce7a446dd5603226fd97aff7ef4801e9_600x400.jpg",
+            "message": "Block all negative energy, and only love.",
+            "authorName": "Ariana Grande",
+            "role": "Singer",
+            "profileImage": "assets/profile_pics/person_1.jpg",
+            "tags": ["Trend", "Music", "Song", "Chill"],
+            "description": "No Music No Life",
+            "source": "World's Billboard"
+            
+        },
+        {
+            "cardType": "card1",
+            "title": "Majority of Music",
+            "subtitle": "Amazing Tunes",
+            "backgroundImage": "assets/magazine_pics/card_3.jpeg",
+            "backgroundImageSource": "https://www.superprof.co.id/blog/wp-content/uploads/2019/02/pexels-photo-1246437-1060x706.jpeg",
+            "message": "Learn how to mastery of Instruments",
+            "authorName": "John Legend",
+            "profileImage": "assets/profile_pics/person_2.jpeg",
+            "tags": ["Trend", "Music", "Song", "Chill"],
+            "description": "No Music No Life",
+            "source": "World's Billboard"
+        },
+        {
+            "cardType": "card3",
+            "title": "Music Trends",
+            "subtitle": "",
+            "backgroundImage": "assets/magazine_pics/card_4.jpg",
+            "backgroundImageSource": "https://cdn.idntimes.com/content-images/community/2020/05/drum-acc-hero-8ab61e0ce8ba29203dcd888b5702890f_600x400.jpg",
+            "message": "Trends of what people are making",
+            "tags": ["Pop", "Jazz", "Classical", "Hip-hop", "Techo", "Rock", "Future Bass", "Post Rock", "LoFi", "EDM"],
+            "description": null,
+            "source": null
+        }
+    ]
+}
